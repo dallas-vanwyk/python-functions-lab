@@ -132,6 +132,7 @@ print('Exercise 5:', sum_to(10))
 #
 # Define your function and test it with different inputs.
 
-
+def largest():
+    pass
 
 print('Exercise 6:', largest(1, 2, 3))
